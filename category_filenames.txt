@@ -1,0 +1,30 @@
+full_numpy_bitmap_airplane.npy
+full_numpy_bitmap_alarm clock.npy
+full_numpy_bitmap_axe.npy
+full_numpy_bitmap_banana.npy
+full_numpy_bitmap_bicycle.npy
+full_numpy_bitmap_butterfly.npy
+full_numpy_bitmap_crown.npy
+full_numpy_bitmap_diamond.npy
+full_numpy_bitmap_dog.npy
+full_numpy_bitmap_donut.npy
+full_numpy_bitmap_dragon.npy
+full_numpy_bitmap_fish.npy
+full_numpy_bitmap_flower.npy
+full_numpy_bitmap_guitar.npy
+full_numpy_bitmap_hat.npy
+full_numpy_bitmap_house.npy
+full_numpy_bitmap_ice cream.npy
+full_numpy_bitmap_key.npy
+full_numpy_bitmap_lighthouse.npy
+full_numpy_bitmap_palm tree.npy
+full_numpy_bitmap_popsicle.npy
+full_numpy_bitmap_snail.npy
+full_numpy_bitmap_spider.npy
+full_numpy_bitmap_syringe.npy
+full_numpy_bitmap_television.npy
+full_numpy_bitmap_tractor.npy
+full_numpy_bitmap_tree.npy
+full_numpy_bitmap_trumpet.npy
+full_numpy_bitmap_windmill.npy
+full_numpy_bitmap_wine glass.npy

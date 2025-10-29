@@ -1,0 +1,30 @@
+airplane
+alarm clock
+axe
+banana
+bicycle
+butterfly
+crown
+diamond
+dog
+donut
+dragon
+fish
+flower
+guitar
+hat
+house
+ice cream
+key
+lighthouse
+palm tree
+popsicle
+snail
+spider
+syringe
+television
+tractor
+tree
+trumpet
+windmill
+wine glass
