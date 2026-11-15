@@ -61,11 +61,11 @@ lines inside the python interpreter:
 >>> app = UI.DrawingApp(root, num_categories=5, model = five_cat_model)
 ```
 
-![What should pop up after these lines of code](doodle-opening-screen.png)
+![What should pop up after these lines of code](images/doodle-opening-screen.png)
 
 Then draw a doodle of one of the five categories. 
 
-![Doodle of an Ax.](axe_UI_example.png)
+![Doodle of an Ax.](images/axe_UI_example.png)
 
 ## Variations of the Minimal Example
 
@@ -82,12 +82,12 @@ Let's look at one for classifying 30 doodles using a CNN.
 >>> app = UI.DrawingApp(root, num_categories=30, model = thirty_cat_model)
 ```
 
-![What should pop up after these lines of code](doodle-30-cat-opening.png)
+![What should pop up after these lines of code](images/doodle-30-cat-opening.png)
 
 Then pick any of the categories and doodle it. 
 Try to draw it generically and see if the CNN can classify it.
 
-![Trumpet doodle](trumpet.png)
+![Trumpet doodle](images/trumpet.png)
 
 
 ## Methodologies behind the classifiers
@@ -141,6 +141,26 @@ To reduce dimensionality and explore alternative approaches, we applied Principa
 - **Hidden layer 2:** 128 nodes, ReLU activation
 - **Dropout:** 20% (training only)
 - **Output layer:** 5 nodes, Softmax activation
+
+## Files
+
+- `Presentation.ipynb` demonstrates each of the model architectures 
+in a Jupyer notebook
+
+- `doodleProject-slides.pdf` are slides for the project
+
+- `neural_network.py` contains the model set-ups using Keras
+
+- `TrainingAndVisualizationsPCA.ipynb` sets up a PCA based on training data from 5 categories of images
+and looks at the resulting high-variance components
+
+- `training.py` is the script for training the CNN or fully connected models 
+on the image data, which must be indepedently downloaded if the reader wants
+to train new weights
+
+- UI.py contains the code for running the user interface for the classifier using the CNN model
+
+- UIpca.py is for the user interface with the PCA plus fully connected model
 
 ## Results
 
